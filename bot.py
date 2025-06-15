@@ -9,8 +9,8 @@ bot = telebot.TeleBot(bot_token)
 
 def wlcm_msg(message):
         wlcm_text = """welcom to chat id bot send /id command to know your id
-            created by @alienkrishn"""" # add your username 
-                created by @alienkrishn""" # add your username 
+            created by @amarjit_999"""" # add your username 
+                created by @amarjit_999""" # add your username 
                     bot.reply_to(message, wlcm_text)
 
                     @bot.message_handler(commands=['id'])

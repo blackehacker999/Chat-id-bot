@@ -15,5 +15,6 @@ Chat id bot for telegram by amarjit
 
  > open bot.py with any text editor and add your bot token
 
-run the bot.py `python bot.py`
+run the bot.py
+      ```python bot.py```
 
